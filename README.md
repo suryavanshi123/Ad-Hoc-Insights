@@ -1,1 +1,2 @@
-# Ad-Hoc-Insights
+# Consumer-Goods-Ad-hoc-Insights
+Company: AtliQ Hardwares
