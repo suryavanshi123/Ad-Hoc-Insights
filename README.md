@@ -1,16 +1,16 @@
 # Consumer-Goods-Ad-hoc-Insights
-#Company: AtliQ Hardwares
+# Company: AtliQ Hardwares
 AtliQ Hardwares is a fictional top computer hardware maker in India with a global reach. The company focuses on using data analytics to make smart, informed decisions..
 
-#Challenge
+# Challenge
 AtliQ Hardwares identified a gap in their ability to make quick, smart data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Tony Sharma, their Data Analytics Director, devised a SQL challenge to evaluate these skills.
 
-#My Task
+# My Task
 As a hypothetical applicant for this role, I was tasked with:
 
 Writing and executing SQL queries to answer these requests.
 Creating a presentation to showcase these insights, targeting top-level management.
-#My Approach:
+# My Approach:
 
 🔍 Data Extraction (SQL)
 Utilized MySQL to write optimized queries for extracting relevant data from transactional and dimensional tables.
@@ -28,14 +28,14 @@ Included visual storytelling elements such as charts, infographics, and summary 
 Derived data-driven insights by analyzing KPIs and identifying patterns.
 Provided practical recommendations to support strategic decision-making for the management team.
 
-Tools and Technologies Used
+# Tools and Technologies Used
 SQL: For querying databases and retrieving insights. -Joins -Subqueries -Common Table Expressions (CTE) -Window Functions PowerBI: For creating interactive and insightful visualizations. -Creating measures -Custom columns -Various types of visuals
 
-Insights:
-Sales Performance: Analyzed sales trends across regions and timeframes to identify growth opportunities.
-Product Analysis: Evaluated product demand and inventory to optimize stock management.
-Customer Behavior: Identified purchasing patterns to enhance customer targeting and retention.
-Operational Efficiency: Assessed operational metrics to pinpoint inefficiencies and improve processes.
-Market Trends: Monitored market dynamics to uncover emerging opportunities and risks.
+# Insights:
+- Sales Performance: Analyzed sales trends across regions and timeframes to identify growth opportunities.
+- Product Analysis: Evaluated product demand and inventory to optimize stock management.
+- Customer Behavior: Identified purchasing patterns to enhance customer targeting and retention.
+- Operational Efficiency: Assessed operational metrics to pinpoint inefficiencies and improve processes.
+- Market Trends: Monitored market dynamics to uncover emerging opportunities and risks.
 
 This project highlights my skills in data analysis, SQL querying, data visualization, and presentation design in a business setting. It demonstrates my ability to extract and present actionable insights from data, supporting data-driven decision-making in a corporate environment.
