@@ -1,16 +1,16 @@
 # Consumer-Goods-Ad-hoc-Insights
-Company: AtliQ Hardwares
+#Company: AtliQ Hardwares
 AtliQ Hardwares is a fictional top computer hardware maker in India with a global reach. The company focuses on using data analytics to make smart, informed decisions..
 
-Challenge
+#Challenge
 AtliQ Hardwares identified a gap in their ability to make quick, smart data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Tony Sharma, their Data Analytics Director, devised a SQL challenge to evaluate these skills.
 
-My Task
+#My Task
 As a hypothetical applicant for this role, I was tasked with:
 
 Writing and executing SQL queries to answer these requests.
 Creating a presentation to showcase these insights, targeting top-level management.
-My Approach:
+#My Approach:
 
 🔍 Data Extraction (SQL)
 Utilized MySQL to write optimized queries for extracting relevant data from transactional and dimensional tables.
